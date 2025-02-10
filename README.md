@@ -1,6 +1,6 @@
 # Welcome, Login, Signup Page - Flutter U
 
-A Simple Project_
+A Simple Project
 
 ## Getting Started
 
